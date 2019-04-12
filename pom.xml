@@ -12,6 +12,8 @@
     <modules>
         <module>spring-boot-provider</module>
         <module>spring-boot-consumer</module>
+        <module>spring-cloud-eureka</module>
+        <module>spring-boot-provider-v2</module>
     </modules>
 
     <parent>

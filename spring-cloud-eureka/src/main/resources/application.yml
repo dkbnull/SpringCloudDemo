@@ -1,0 +1,18 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /springcloudeureka
+
+spring:
+  application:
+    name: spring-cloud-eureka
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    #此项目不作为客户端注册
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:${server.port}/springcloudeureka/eureka/

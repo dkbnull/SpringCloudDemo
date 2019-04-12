@@ -1,4 +1,4 @@
-package cn.wbnull.springbootprovider;
+package springbootprovider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
