@@ -11,9 +11,13 @@ import org.springframework.web.client.RestTemplate;
  * Spring Boot 启动类
  *
  * @author dukunbiao(null)  2019-04-12
+ *         https://github.com/dkbnull/SpringCloudDemo
  */
 @SpringBootApplication
 @EnableEurekaClient
+//@RibbonClient(name = "spring-boot-provider", configuration = cn.wbnull.config.LoadBalanced.class)
+//@RibbonClient(name = "spring-boot-provider", configuration = cn.wbnull.springbootconsumer.config.LoadBalanced.class)
+//@ComponentScan(excludeFilters = {@ComponentScan.Filter(type = FilterType.ASSIGNABLE_TYPE, value = cn.wbnull.springbootconsumer.config.LoadBalanced.class)})
 public class SpringBootConsumerApplication {
 
     @Bean

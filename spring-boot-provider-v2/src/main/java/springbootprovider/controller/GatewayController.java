@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 入口类
  *
  * @author dukunbiao(null)  2019-04-12
+ *         https://github.com/dkbnull/SpringCloudDemo
  */
 @RestController
 @Scope("prototype")

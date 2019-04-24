@@ -10,6 +10,7 @@ import org.springframework.web.client.RestTemplate;
  * 入口类
  *
  * @author dukunbiao(null)  2019-04-12
+ *         https://github.com/dkbnull/SpringCloudDemo
  */
 @RestController
 @Scope("prototype")
