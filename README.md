@@ -22,8 +22,12 @@ GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/S
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/89268194](https://blog.csdn.net/dkbnull/article/details/89268194)
 * 微信：[https://mp.weixin.qq.com/s/L4WVLGh7d6ULl9bP6IdxVg](https://mp.weixin.qq.com/s/L4WVLGh7d6ULl9bP6IdxVg)
 
-## Spring Cloud自定义Eureka负载均衡策略（Ribbon篇）
+## Spring Cloud自定义Eureka Ribbon负载均衡策略
 
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/89506462](https://blog.csdn.net/dkbnull/article/details/89506462)
 * 微信：[https://mp.weixin.qq.com/s/D3wHuZiuhqbqXI5MudwxMg](https://mp.weixin.qq.com/s/D3wHuZiuhqbqXI5MudwxMg)
+
+## Spring Cloud Feign的使用和自定义配置
+
+* CSDN：[https://blog.csdn.net/dkbnull/article/details/89525792](https://blog.csdn.net/dkbnull/article/details/89525792)
 

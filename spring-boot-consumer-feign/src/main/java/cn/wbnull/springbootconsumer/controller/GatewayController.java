@@ -1,5 +1,7 @@
-package cn.wbnull.springbootprovider.controller;
+package cn.wbnull.springbootconsumer.controller;
 
+import cn.wbnull.springbootconsumer.feign.GatewayFeignClient;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Scope;
 import org.springframework.web.bind.annotation.*;
 
@@ -8,27 +10,28 @@ import java.util.Map;
 /**
  * 入口类
  *
- * @author dukunbiao(null)  2019-04-12
+ * @author dukunbiao(null)  2019-04-25
  *         https://github.com/dkbnull/SpringCloudDemo
  */
 @RestController
 @Scope("prototype")
 public class GatewayController {
 
+    @Autowired
+    private GatewayFeignClient gatewayFeignClient;
+
     @GetMapping(value = "/gateway")
     public String gateway() throws Exception {
-        return "hello world,this is spring-boot-provider";
+        return gatewayFeignClient.gateway();
     }
 
     @PostMapping(value = "/user")
     public String user(@RequestParam(value = "name") String name) throws Exception {
-        return "hello world,this is spring-boot-provider. name is " + name;
+        return gatewayFeignClient.user(name);
     }
 
     @PostMapping(value = "/users")
-    public Map<String, String> users(@RequestBody Map<String, String> request) throws Exception {
-        request.put("hello world", "spring-boot-provider");
-
-        return request;
+    public String users(@RequestBody Map<String, String> request) throws Exception {
+        return gatewayFeignClient.users(request);
     }
 }
