@@ -16,6 +16,8 @@ GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/S
 
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/89223691](https://blog.csdn.net/dkbnull/article/details/89223691)
 * 微信：[https://mp.weixin.qq.com/s/7ZrgoRyAcs7agzpVtsWe4w](https://mp.weixin.qq.com/s/7ZrgoRyAcs7agzpVtsWe4w)
+* 微博：[https://weibo.com/ttarticle/p/show?id=2309404365477253117454](https://weibo.com/ttarticle/p/show?id=2309404365477253117454)
+* 知乎：[https://zhuanlan.zhihu.com/p/63925470](https://zhuanlan.zhihu.com/p/63925470)
 
 ## Spring Cloud服务注册与发现（Eureka）
 
