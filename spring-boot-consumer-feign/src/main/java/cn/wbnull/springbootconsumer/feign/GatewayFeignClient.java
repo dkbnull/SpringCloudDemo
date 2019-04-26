@@ -34,5 +34,5 @@ public interface GatewayFeignClient {
 
     @RequestLine("POST /springbootprovider/users")
     @Headers("Content-Type: application/json")
-    String users(Map<String, String> request) throws Exception;
+    Map<String, String> users(Map<String, String> request) throws Exception;
 }

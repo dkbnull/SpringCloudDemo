@@ -31,7 +31,7 @@ public class GatewayController {
     }
 
     @PostMapping(value = "/users")
-    public String users(@RequestBody Map<String, String> request) throws Exception {
+    public Map<String, String> users(@RequestBody Map<String, String> request) throws Exception {
         return gatewayFeignClient.users(request);
     }
 }
