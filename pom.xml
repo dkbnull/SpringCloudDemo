@@ -15,6 +15,8 @@
         <module>spring-cloud-eureka</module>
         <module>spring-boot-provider-v2</module>
         <module>spring-boot-consumer-feign</module>
+        <module>spring-boot-consumer-hystrix</module>
+        <module>spring-boot-consumer-feign-hystrix</module>
     </modules>
 
     <parent>

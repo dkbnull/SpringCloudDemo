@@ -1,0 +1,31 @@
+server:
+  port: 8086
+  servlet:
+    context-path: /springbootconsumer
+
+spring:
+  application:
+    name: spring-boot-consumer-feign-hystrix
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8090/springcloudeureka/eureka/
+
+feign:
+  hystrix:
+    enabled: true
+
+ribbon:
+  ReadTimeout: 5000
+  ConnectTimeout: 5000
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 3000
