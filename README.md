@@ -38,4 +38,5 @@ GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/S
 ## Spring Cloud 熔断器/断路器 Hystrix
 
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/89578323](https://blog.csdn.net/dkbnull/article/details/89578323)
+* 微信：[https://mp.weixin.qq.com/s/VvuyF5JtYmA0dDyGD4uNIw](https://mp.weixin.qq.com/s/VvuyF5JtYmA0dDyGD4uNIw)
 
