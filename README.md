@@ -31,3 +31,5 @@ GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/S
 
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/89525792](https://blog.csdn.net/dkbnull/article/details/89525792)
 
+* 微信：[https://mp.weixin.qq.com/s/RL8ZtwH3x6XZLzE-pYj6dA](https://mp.weixin.qq.com/s/RL8ZtwH3x6XZLzE-pYj6dA)
+
