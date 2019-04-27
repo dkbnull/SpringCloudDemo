@@ -4,13 +4,12 @@
 > - Spring Boot：2.1.1.RELEASE
 > - Spring Cloud：Finchley.RELEASE
 
-
-
 GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/SpringCloudDemo)
 
 ## Spring Cloud 专栏
 
 * CSDN：[https://blog.csdn.net/dkbnull/column/info/36820](https://blog.csdn.net/dkbnull/column/info/36820)
+* 知乎：[https://zhuanlan.zhihu.com/c_1105052885779513344](https://zhuanlan.zhihu.com/c_1105052885779513344)
 
 ## Spring Cloud整合Spring Boot（服务提供者和服务消费者）
 
