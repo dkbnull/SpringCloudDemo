@@ -1,0 +1,43 @@
+server:
+  port: 8091
+  servlet:
+    context-path: /springcloudzuul
+
+spring:
+  application:
+    name: spring-cloud-zuul
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8090/springcloudeureka/eureka/
+
+ribbon:
+  ReadTimeout: 5000
+  ConnectTimeout: 5000
+
+zuul:
+  routes:
+    zuul-a:
+      path: /zuul-a/**
+      serviceId: spring-boot-consumer-feign-hystrix
+
+#zuul:
+#  routes:
+#    zuul-a:
+#      path: /zuul-a/**
+#      serviceId: spring-boot-provider
+#    zuul-b:
+#      path: /zuul-b/**
+#      serviceId: spring-boot-provider
+
+#zuul:
+#  routes:
+#    zuul-a:
+#      path: /zuul-a/**
+#      url: http://localhost:8081/springbootprovider
+#    zuul-b:
+#      path: /zuul-b/**
+#      url: http://localhost:8083/springbootprovider

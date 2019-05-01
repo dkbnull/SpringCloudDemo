@@ -39,3 +39,8 @@ GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/S
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/89578323](https://blog.csdn.net/dkbnull/article/details/89578323)
 * 微信：[https://mp.weixin.qq.com/s/VvuyF5JtYmA0dDyGD4uNIw](https://mp.weixin.qq.com/s/VvuyF5JtYmA0dDyGD4uNIw)
 
+## Spring Cloud路由网关和过滤器（zuul）
+
+* CSDN：[https://blog.csdn.net/dkbnull/article/details/89736893](https://blog.csdn.net/dkbnull/article/details/89736893)
+* 微信：[https://mp.weixin.qq.com/s/lWMudofECNpskWTioI2cIg](https://mp.weixin.qq.com/s/lWMudofECNpskWTioI2cIg)
+
