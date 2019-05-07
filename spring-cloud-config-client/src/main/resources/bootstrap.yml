@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-cloud-config-client
+  cloud:
+    config:
+      uri: http://127.0.0.1:8092/springcloudconfig
+      profile: pro
+      label: master

@@ -18,6 +18,8 @@
         <module>spring-boot-consumer-hystrix</module>
         <module>spring-boot-consumer-feign-hystrix</module>
         <module>spring-cloud-zuul</module>
+        <module>spring-cloud-config-server</module>
+        <module>spring-cloud-config-client</module>
     </modules>
 
     <parent>

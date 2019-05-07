@@ -48,3 +48,9 @@ GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/S
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/89736893](https://blog.csdn.net/dkbnull/article/details/89736893)
 * 微信：[https://mp.weixin.qq.com/s/lWMudofECNpskWTioI2cIg](https://mp.weixin.qq.com/s/lWMudofECNpskWTioI2cIg)
 
+## Spring Cloud Config 分布式配置中心
+
+* CSDN：[https://blog.csdn.net/dkbnull/article/details/89934484](https://blog.csdn.net/dkbnull/article/details/89934484)
+
+* 微信：[https://mp.weixin.qq.com/s/jcFZUliJ5Fq5MSQWQNombw](https://mp.weixin.qq.com/s/jcFZUliJ5Fq5MSQWQNombw)
+
