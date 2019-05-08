@@ -35,8 +35,9 @@ GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/S
 ## Spring Cloud Feign的使用和自定义配置
 
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/89525792](https://blog.csdn.net/dkbnull/article/details/89525792)
-
 * 微信：[https://mp.weixin.qq.com/s/RL8ZtwH3x6XZLzE-pYj6dA](https://mp.weixin.qq.com/s/RL8ZtwH3x6XZLzE-pYj6dA)
+* 微博：[https://weibo.com/ttarticle/p/show?id=2309404369596210654515](https://weibo.com/ttarticle/p/show?id=2309404369596210654515)
+* 知乎：[https://zhuanlan.zhihu.com/p/65008318](https://zhuanlan.zhihu.com/p/65008318)
 
 ## Spring Cloud 熔断器/断路器 Hystrix
 
