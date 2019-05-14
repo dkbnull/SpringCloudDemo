@@ -1,10 +1,13 @@
 # SpringCloudDemo
-> Base	Java 1.8
->
-> - Spring Boot：2.0.9.RELEASE
-> - Spring Cloud：Finchley.RELEASE
 
-GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/SpringCloudDemo)
+GitHub：[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/SpringCloudDemo)
+
+## 开发环境
+
+- IDE：IntelliJ IDEA
+- JDK：1.8
+- Spring Boot：2.0.9.RELEASE
+- Spring Cloud：Finchley.RELEASE
 
 ## Spring Cloud 专栏
 
@@ -56,6 +59,7 @@ GitHub	[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/S
 ## Spring Cloud Config 分布式配置中心
 
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/89934484](https://blog.csdn.net/dkbnull/article/details/89934484)
-
 * 微信：[https://mp.weixin.qq.com/s/jcFZUliJ5Fq5MSQWQNombw](https://mp.weixin.qq.com/s/jcFZUliJ5Fq5MSQWQNombw)
+* 微博：[https://weibo.com/ttarticle/p/show?id=2309404371771666085647](https://weibo.com/ttarticle/p/show?id=2309404371771666085647)
+* 知乎：[https://zhuanlan.zhihu.com/p/65654453](https://zhuanlan.zhihu.com/p/65654453)
 
