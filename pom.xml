@@ -20,6 +20,7 @@
         <module>spring-cloud-zuul</module>
         <module>spring-cloud-config-server</module>
         <module>spring-cloud-config-client</module>
+        <module>spring-cloud-zipkin</module>
     </modules>
 
     <parent>

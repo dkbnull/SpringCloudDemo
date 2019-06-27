@@ -1,0 +1,24 @@
+server:
+  port: 8092
+
+spring:
+  application:
+    name: spring-cloud-zipkin
+  sleuth:
+    sampler:
+      probability: 1.0
+
+management:
+  metrics:
+    web:
+      server:
+        auto-time-requests: false
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8090/springcloudeureka/eureka/
+  instance:
+    prefer-ip-address: true

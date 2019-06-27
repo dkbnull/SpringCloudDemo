@@ -63,3 +63,9 @@ GitHub：[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull
 * 微博：[https://weibo.com/ttarticle/p/show?id=2309404371771666085647](https://weibo.com/ttarticle/p/show?id=2309404371771666085647)
 * 知乎：[https://zhuanlan.zhihu.com/p/65654453](https://zhuanlan.zhihu.com/p/65654453)
 
+## Spring Cloud 全链路跟踪 Zipkin
+
+* CSDN：[https://blog.csdn.net/dkbnull/article/details/93928005](https://blog.csdn.net/dkbnull/article/details/93928005)
+* 微信：[https://mp.weixin.qq.com/s/03ffLZfep8ZU6hgy8g_tQg](https://mp.weixin.qq.com/s/03ffLZfep8ZU6hgy8g_tQg)
+* 微信：[https://weibo.com/ttarticle/p/show?id=2309404387944860409936](https://weibo.com/ttarticle/p/show?id=2309404387944860409936)
+* 知乎：[https://zhuanlan.zhihu.com/p/71162391](https://zhuanlan.zhihu.com/p/71162391)
