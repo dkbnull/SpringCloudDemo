@@ -12,7 +12,7 @@ import java.io.IOException;
  * 服务过滤
  *
  * @author dukunbiao(null)  2019-04-30
- *         https://github.com/dkbnull/SpringCloudDemo
+ * https://github.com/dkbnull/SpringCloudDemo
  */
 @Component
 public class GlobalFilter extends ZuulFilter {
@@ -36,6 +36,11 @@ public class GlobalFilter extends ZuulFilter {
     public Object run() throws ZuulException {
         RequestContext context = RequestContext.getCurrentContext();
         HttpServletRequest servletRequest = context.getRequest();
+
+        if (servletRequest.getRequestURI().contains("v2/api-docs")) {
+            return null;
+        }
+
         Object token = servletRequest.getHeader("token");
         if (token == null) {
             context.setSendZuulResponse(false);

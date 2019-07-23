@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
  * Spring Boot 启动类
  *
  * @author dukunbiao(null)  2019-04-30
- *         https://github.com/dkbnull/SpringCloudDemo
+ * https://github.com/dkbnull/SpringCloudDemo
  */
 @SpringBootApplication
 @EnableEurekaClient

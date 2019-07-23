@@ -69,3 +69,12 @@ GitHub：[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull
 * 微信：[https://mp.weixin.qq.com/s/03ffLZfep8ZU6hgy8g_tQg](https://mp.weixin.qq.com/s/03ffLZfep8ZU6hgy8g_tQg)
 * 微信：[https://weibo.com/ttarticle/p/show?id=2309404387944860409936](https://weibo.com/ttarticle/p/show?id=2309404387944860409936)
 * 知乎：[https://zhuanlan.zhihu.com/p/71162391](https://zhuanlan.zhihu.com/p/71162391)
+
+## Spring Cloud Zuul整合Swagger2
+
+* GitHub：[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/SpringCloudDemo)
+* CSDN：[https://blog.csdn.net/dkbnull/article/details/97042333](https://blog.csdn.net/dkbnull/article/details/97042333)
+* 微信：[https://mp.weixin.qq.com/s/Mf7iVHd2cEN4UMVz0gAUHQ](https://mp.weixin.qq.com/s/Mf7iVHd2cEN4UMVz0gAUHQ)
+* 微博：[https://weibo.com/ttarticle/p/show?id=2309404397344069124460](https://weibo.com/ttarticle/p/show?id=2309404397344069124460)
+* 知乎：[https://zhuanlan.zhihu.com/p/74902374](https://zhuanlan.zhihu.com/p/74902374)
+
