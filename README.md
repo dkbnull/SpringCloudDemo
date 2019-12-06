@@ -13,6 +13,7 @@ GitHub：[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull
 
 * CSDN：[https://blog.csdn.net/dkbnull/column/info/36820](https://blog.csdn.net/dkbnull/column/info/36820)
 * 知乎：[https://zhuanlan.zhihu.com/c_1105052885779513344](https://zhuanlan.zhihu.com/c_1105052885779513344)
+* 微博：[https://weibo.com/a/hot/7581491716986881_1.html](https://weibo.com/a/hot/7581491716986881_1.html)
 
 ## Spring Cloud整合Spring Boot（服务提供者和服务消费者）
 
