@@ -11,7 +11,7 @@ GitHub：[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull
 
 ## Spring Cloud 专栏
 
-* CSDN：[https://blog.csdn.net/dkbnull/column/info/36820](https://blog.csdn.net/dkbnull/column/info/36820)
+* CSDN：[https://blog.csdn.net/dkbnull/category_9287932.html](https://blog.csdn.net/dkbnull/category_9287932.html)
 * 知乎：[https://zhuanlan.zhihu.com/c_1105052885779513344](https://zhuanlan.zhihu.com/c_1105052885779513344)
 * 微博：[https://weibo.com/a/hot/7581491716986881_1.html](https://weibo.com/a/hot/7581491716986881_1.html)
 
@@ -73,7 +73,6 @@ GitHub：[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull
 
 ## Spring Cloud Zuul整合Swagger2
 
-* GitHub：[https://github.com/dkbnull/SpringCloudDemo](https://github.com/dkbnull/SpringCloudDemo)
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/97042333](https://blog.csdn.net/dkbnull/article/details/97042333)
 * 微信：[https://mp.weixin.qq.com/s/Mf7iVHd2cEN4UMVz0gAUHQ](https://mp.weixin.qq.com/s/Mf7iVHd2cEN4UMVz0gAUHQ)
 * 微博：[https://weibo.com/ttarticle/p/show?id=2309404397344069124460](https://weibo.com/ttarticle/p/show?id=2309404397344069124460)
